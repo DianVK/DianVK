@@ -1,8 +1,8 @@
 ![GIF](https://user-images.githubusercontent.com/115580585/216719935-9c1109f2-fcca-4296-9aee-8f968a7af56c.gif)
 
-- 👨🏽‍💻 I’m currently working on [AD-Dent Website with Python Django](https://github.com/DianVK/ad-dent-lab) and ["Cars To-Do" Web App with Django](https://github.com/DianVK/cars_to_do)
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="14"/> I’m currently learning [Javascript Front-End](https://github.com/DianVK/JS-Front-End)
 - <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I recently learned [Python Advanced & OOP](https://github.com/DianVK/SoftUni_Python_Advanced) and [SQL Fundamentals](https://github.com/DianVK/SQL-Fundamentals)
+- 👨🏽‍💻 I’m currently working on [AD-Dent Website with Python Django](https://github.com/DianVK/ad-dent-lab) and ["Cars To-Do" Web App with Django](https://github.com/DianVK/cars_to_do)
 <p>
   <a href="https://git.io/streak-stats">
     <img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=dianvk&theme=Javascript-dark&background=000000" />
