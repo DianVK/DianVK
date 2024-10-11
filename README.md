@@ -1,7 +1,7 @@
 ![GIF](https://user-images.githubusercontent.com/115580585/216719935-9c1109f2-fcca-4296-9aee-8f968a7af56c.gif)
 
 - <img src="https://www.shareicon.net/data/256x256/2016/07/16/634601_python_512x512.png" width="14"/> I recently learned [Python Advanced & OOP](https://github.com/DianVK/SoftUni_Python_Advanced) and [SQL Fundamentals](https://github.com/DianVK/SQL-Fundamentals)
-- 👨🏽‍💻 [AD-Dent Website with Python Django](https://github.com/DianVK/ad-dent-lab) and ["Cars To-Do" Web App with Django](https://github.com/DianVK/cars_to_do)
+- 👨🏽‍💻 My latest projects are [AD-Dent Website with Python Django](https://github.com/DianVK/ad-dent-lab) and ["Cars To-Do" Web App with Django](https://github.com/DianVK/cars_to_do)
 <p>
   <a href="https://git.io/streak-stats">
     <img width="53%" src="http://github-readme-streak-stats.herokuapp.com?user=dianvk&theme=Javascript-dark&background=000000" />
